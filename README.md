@@ -1,5 +1,5 @@
 # awesome-python-community
-Procuraremos fazer deste documento uma referência para próximos edições da python sudeste e posteriormente python-br 2017. Esperamos contribuições de organizadores de todo tipo de evento de Python de maneira a incentivar o fomente ào ecossistema Python por meio da criação de eventos pelo Brasil.
+Nosso objetivo é fomentar o ecossistema Python por meio da criação de eventos pelo Brasil. Procuraremos fazer deste documento uma referência para próximos edições da python sudeste e posteriormente a python-br, documentando os passos que decidimos fazer, desde as etapas preliminares de planejamento até a execução em si. Esperamos contribuições de organizadores de eventos de Python de todo o Brasil.
 
 # Realização de um evento Regional
 Estudo de caso de um evento regional
