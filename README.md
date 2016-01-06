@@ -4,6 +4,20 @@ Nosso objetivo é fomentar o ecossistema Python por meio da criação de eventos
 O estudo de caso básico para criação deste documento é a realização da primeira Python Sudeste, evento regional.
 
 # Planejamento
-*  Criação ou renovação de site e identidade visual
-*  Definição de uma data base para a execução do evento, estando isso balizado pelos locais disponíveis
+
+* Indentidade visual
+  - Logotipo e/ou logomarca
+  - Homepage para o evento
+
+* Definição de datas e Local
+  - Local para realização do evento
+  - Data de realização evento (Depende diretamente do local onde o evento será realizado)
+  - Data para inicio e fim da submissão de palestras
+  - Data para inicio e fim da venda de tickets
+
+* Plano de captação
+  - Elaborar plano de captação
+  - Enviar plano de captação para empresas parceiras
+
+> **IMPORTANTE:** Algumas tarefas podem ser executadas paralelamente, como por exemplo elaborar plano de captação enquanto define o local para realização do evento e cria a identidade visual. Isso fica a critério da equipe organizadora.
 
